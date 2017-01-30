@@ -3,12 +3,10 @@
  This code book summarizes the resulting data fields in tidy.txt.
  
  ## Identifiers
- 
  * subject - The ID of the test subject
  * activity - The type of activity performed when the corresponding measurements were taken
  
  ## Measurements
- 
  * tBodyAccMeanX
  * tBodyAccMeanY
  * tBodyAccMeanZ
@@ -90,7 +88,6 @@
  * fBodyBodyGyroJerkMagMeanFreq
  
  ## Activity Labels
- 
  * WALKING (value 1): subject was walking during the test
  * WALKING_UPSTAIRS (value 2): subject was walking up a staircase during the test
  * WALKING_DOWNSTAIRS (value 3): subject was walking down a staircase during the test
